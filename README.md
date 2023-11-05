@@ -1,2 +1,2 @@
-# producer-price-index
+# producer price index
 Project to create a producer price index
